@@ -1,0 +1,41 @@
+tabale{
+	width: 	90%;
+	border-collapse:separate;
+	
+
+
+}
+
+td{
+	padding-top: 8px;
+	padding-left: left;
+	padding-right: rigth;
+	border-bottom: 6px;
+
+table,td{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #808000;
+}
+
+h1,h2,h3{
+	color: #ff0;
+	font-family: "Times New Roman",Times,sans-serif;
+
+}
+h1{
+	font-size: 48pt;	
+	text-align: rigth;
+}
+h2{
+	font-size: 24pt;
+}
+h3{
+	font-size: 18pt;
+}
+
+.cyan{
+	color: #00ffff;
+}
+
+/*/Ramon Duarte/uy027/0006*/
